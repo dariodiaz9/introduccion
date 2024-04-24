@@ -7,3 +7,10 @@ h3{
     text-align: center;
     color: rgb(201, 190, 190);
 }
+.contenedor{
+    border: 2px black solid;
+    text-align: center;
+}
+.class{
+    text-align: left;
+}
